@@ -1,0 +1,17 @@
+.repo-btntext {
+  margin: 0;
+  margin-left: 5px;
+}
+.btn-repo {
+  width: 100px;
+}
+.btn-repo1 {
+  width: 160px;
+}
+.middle {
+  margin: 0 10px;
+}
+.fork {
+  font-size: 24px;
+  color: #8b949e;
+}

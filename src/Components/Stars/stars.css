@@ -1,0 +1,37 @@
+.stars {
+  padding: 45px 0;
+}
+.icon-search {
+  font-size: 18px;
+  color: #57606a;
+  position: absolute;
+  top: 276px;
+  left: 470px;
+}
+.search {
+  width: 400px;
+  padding-left: 30px;
+}
+.type-btn3 {
+  width: 110px;
+  margin-right: 10px;
+}
+.btn3 {
+  width: 220px;
+}
+.ic {
+  font-size: 16px;
+}
+.star-text {
+  font-size: 20px;
+  font-weight: 300;
+  color: #c9d1d9;
+}
+.star-icon {
+  font-size: 32px;
+  color: #57606a;
+  margin-bottom: 10px;
+}
+.star-body {
+  margin-top: 45px;
+}

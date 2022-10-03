@@ -1,0 +1,29 @@
+footer {
+  width: 100%;
+  padding: 45px 0;
+  background-color: #0d1117;
+  border-top: 1px solid #484f58;
+}
+.footer-item {
+  font-size: 14px;
+  text-decoration: none;
+  color: #58a6ff;
+}
+.footer-item:hover {
+  text-decoration: underline;
+  color: #58a6ff;
+}
+.github {
+  color: #686a6e;
+  font-size: 34px;
+}
+.footer-text {
+  color: #686a6e;
+  font-size: 13px;
+  margin-top: 6px;
+  margin-left: 10px;
+}
+.footer-lists {
+  width: 940px;
+  margin-left: 80px;
+}

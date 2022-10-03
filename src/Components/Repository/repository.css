@@ -1,0 +1,32 @@
+.btn2 {
+  color: #c9d1d9;
+  background-color: #21262d;
+  font-size: 14px;
+  font-weight: 500;
+  border: 1px solid #484f58;
+  padding: 3px 16px;
+  border-radius: 6px;
+}
+.btns {
+  width: 320px;
+}
+.repositories-top {
+  padding: 18px 0;
+  border-bottom: 1px solid #484f58;
+}
+.btn2:hover {
+  cursor: pointer;
+  background-color: #484f58;
+  border: 1px solid #c9d1d9;
+  color: #c9d1d9;
+}
+.type {
+  margin: 0;
+}
+.find-input {
+  width: 635px;
+  font-size: 14px;
+  padding: 6px 12px;
+  background-color: #0d1117;
+  border: 1px solid #484f58;
+}

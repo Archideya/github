@@ -1,0 +1,10 @@
+.error-text {
+  font-size: 14px;
+  color: #c9d1d9;
+}
+.error {
+  width: 310px;
+  padding: 16px;
+  border: 1px solid #f85149;
+  background-color: #ff7b72;
+}
